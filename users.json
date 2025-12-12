@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "email": "demo@boutique.test",
+    "password": "$2b$10$4kcimoDRjNs1H0Qaj.fvyejXf5HdcUIj70AkC6kIuIPPPo60fNXYe",
+    "name": "Visiteur",
+    "cart": []
+  }
+,
+  {
+  "id": 2,
+  "email": "laplateforme@1.test",
+  "password": "$2b$10$4kcimoDRjNs1H0Qaj.fvyejXf5HdcUIj70AkC6kIuIPPPo60fNXYe",
+  "name": "La Plateforme",
+  "cart": []
+}
+]
+
